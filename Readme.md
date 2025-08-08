@@ -1,4 +1,4 @@
-# DevOps Task 4 – Git Version Control Project
+# Git Best Practices – Git Version Control Project
 
 ## 📌 Objective:
 Manage a DevOps project using Git best practices.
